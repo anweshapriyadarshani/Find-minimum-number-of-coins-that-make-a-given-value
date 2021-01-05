@@ -1,0 +1,2 @@
+# Find-minimum-number-of-coins-that-make-a-given-value
+Find the minimum number of coins required to make n cents.  You can use standard American denominations, that is, 1¢, 5¢, 10¢, and 25¢.  For example, given n = 16, return 3 since we can make it with a 10¢, a 5¢, and a 1¢.  For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15], the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
